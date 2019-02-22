@@ -1,5 +1,5 @@
 ## Hello World
-A basic exercise to get the hang of go, I am going to make more repositories to continue learning.
+A basic exercise to get the hang of Go, I am going to make more repositories to continue learning.
 
 Installation:
 
